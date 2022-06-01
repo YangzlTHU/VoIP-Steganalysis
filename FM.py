@@ -8,8 +8,6 @@ Based on paper:
     Fast Steganalysis Method for VoIP Streams
 
 ---------------
-Author: Yang Hao
-Email:  yanghao17@mails.tsinghua.edu.cn
 '''
 import numpy as np
 import os, pickle, random, datetime
